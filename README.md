@@ -1,5 +1,7 @@
 <div align="center">
 
+![VisualMotivation — Human × AI × Imagination](assets/visual-motivation-header.gif)
+
 # VISUAL MOTIVATION ✦
 
 ### `HUMAN × AI × IMAGINATION`
