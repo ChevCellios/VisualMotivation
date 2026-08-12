@@ -6,7 +6,7 @@
 
 `A CONTEMPORARY COMPARATIVE EXPERIMENT · AUGUST 2026`
 
-![Shared Horizon — After the Mission](SharedHorizon_2026.png)
+![Shared Horizon — After the Mission](SharedHorizon.png)
 
 </div>
 
