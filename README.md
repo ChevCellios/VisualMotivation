@@ -32,6 +32,11 @@ The result is a curated record of both the final visuals and the thinking that s
 | ◇ | **Minimalism** | Essential forms, quiet compositions, and visual clarity |
 | ⌁ | **Abstract** | Color, texture, motion, and open interpretation |
 | 🧪 | **Experiments** | Unconventional prompts, new techniques, and creative detours |
+### 🧪 Featured Experiment
+
+[**TeamWin — Victory Is a Shared Moment**](experiments/teamwin-happy/)
+
+A techno-optimistic exploration of teamwork, human connection, and the natural joy that follows a shared achievement.
 
 ## Creative Process
 
