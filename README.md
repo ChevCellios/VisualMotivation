@@ -192,7 +192,7 @@ The result is a curated record of both the final visuals and the thinking that s
 ### 🧪 Featured Experiment
 
 [**TeamWin — Victory Is a Shared Moment**](experiments/teamwin-happy/)
-[**ZastavaZen**](experiments/ZastavaZen/)
+[**ZastavaZen**](experiments/zastavazen/)
 
 A techno-optimistic exploration of teamwork, human connection, and the natural joy that follows a shared achievement.
 
