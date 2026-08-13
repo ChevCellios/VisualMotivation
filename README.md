@@ -1,6 +1,6 @@
 <div align="center">
 
-![VisualMotivation — Human × AI × Imagination](assets/visual-motivation-header.gif)
+![VisualMotivation — Human × AI × Imagination](assets/visual-motivation-header2.gif)
 
 # VISUAL MOTIVATION ✦
 
